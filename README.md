@@ -27,7 +27,7 @@ To run this program, open a terminal and type the command `./run.sh` and then en
 
 ## Note
 
-- This project is using less secure technology. It means it doesn't utilize 2-factor authentication so you need to turn less secure technology on before running the program
+- This project is using less secure technology. It means it doesn't utilize 2-factor authentication so you need to turn less secure technology on from your email server (like gmail) before running the program
 -  When inspecting an url, you need to know that a `table` tag contains many rows (`tr`) and each row (`tr`) comprises many cells (`td`) 
 
 ## Lessons learned

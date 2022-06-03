@@ -6,7 +6,7 @@ In this project, we'll learn how to build an email sender that automatically sen
 
 ## Installation
 
-pip install -r /path/to/requirements.txt
+`pip install -r /path/to/requirements.txt`
 
 ## Instructions
 

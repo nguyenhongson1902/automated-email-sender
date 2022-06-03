@@ -18,7 +18,7 @@ To run this program, open a terminal and type the command `./run.sh` and then en
 
 1. GET request
 2. Use BeautifulSoup (web scraping)
-3. Buil email content
+3. Build email content
 4. Authenticate emails
 
 ## Demonstration

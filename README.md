@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, we'll learn how to build an email sender that automatically send an mail from this email address to another (or others). The email structure will be built step by step that you can easily find it from the source code. Although this project is kind of simple at first, I think it should be helpful, extendable and a good starter when you want to develop this tool later on.
+In this project, we'll learn how to build an email sender that automatically send an mail from this email address to another (or others). The email structure will be built step by step that you can easily find it from the source code. Although this project is kind of simple at first, I think it should be helpful, extendable and a good starter when you want to develop this type of tool later on.
 
 ## Installation
 

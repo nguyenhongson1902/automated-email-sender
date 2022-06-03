@@ -11,6 +11,7 @@ In this project, we'll learn how to build an email sender that automatically sen
 ## Instructions
 
 URL: https://news.ycombinator.com/
+
 To run this program, open a terminal and type the command `./run.sh` and then enter
 
 ## General steps
